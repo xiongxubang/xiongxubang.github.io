@@ -15,6 +15,10 @@ Education
   * South China University of Technology
   * Major GPA: 3.97/4.0 (Ranking: 1/176)
 
+* Ph.D. in Computer Science, 2023-2028 (expected)
+  * The Hong Kong University of Science and Technology
+  * Supervisor: Prof. Raymond Chi-Wing Wong
+
 Work experience
 ======
 * April 2021-June 2023: Research Assistant
