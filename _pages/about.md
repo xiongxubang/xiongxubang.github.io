@@ -1,18 +1,14 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is Xubang XIONG's home on the web!
 
-
-About Me
-======
 I am a senior student at [SCUT](https://www.scut.edu.cn/new/) (South China University of Technology) now. And I will pursue my Ph.D. degree in [The Department of CSE](https://cse.hkust.edu.hk/) (Computer Science & Engineering) at [HKUST](https://hkust.edu.hk/), supervised by [Prof. Raymond Chi-Wing Wong](https://home.cse.ust.hk/~raywong/).
 
 Research Interests
