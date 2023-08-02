@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, 2019-2023 (expected)
+* B.S. in Computer Science, 2019-2023
   * South China University of Technology
   * Major GPA: 3.97/4.0 (Ranking: 1/176)
 
@@ -26,6 +26,10 @@ Work experience
   * Duties included: Task Allocation in Mobile Crowdsensing, Reinforcement Learning
   * Advisor: Prof. Xinglin Zhang
 
+* July 2023-now: Research Assistant
+  * The Hong Kong University of Science and Technology
+  * Duties included: Data Mining, Machine Learning, Deep Learning
+  * Advisor: Prof. Raymond Chi-Wing Wong
 
 Honors and Awards
 ======
