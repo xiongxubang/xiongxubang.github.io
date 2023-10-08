@@ -21,3 +21,8 @@ Selected Awards
 ======
 + Samsung Scholarship, 2021
 + The Hong Kong PhD Fellowship Scheme (HKPFS), 2023
+
+Community Services
+======
++ As an external reviewer for the following conferences:
+  - 2023: BigData
