@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "XIONG Xubang"
+title: "Xubang XIONG"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
