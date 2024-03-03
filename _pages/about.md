@@ -27,3 +27,4 @@ Community Services
 ======
 + As an external reviewer for the following conferences:
   - 2023: BigData
+  - 2024: KDD
