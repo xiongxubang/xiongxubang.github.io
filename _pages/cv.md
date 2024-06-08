@@ -31,6 +31,13 @@ Work experience
   * Duties included: Data Mining, Machine Learning, Deep Learning
   * Advisor: Prof. Raymond Chi-Wing Wong
 
+* Jan 2024-May 2024: Teaching Assistant
+  * The Hong Kong University of Science and Technology
+  * Course: COMP1942, Exploring and Visualizing Data (Spring 2024)
+  * Duties included: Tutorial about Bayesian Belief Network
+  * Instructor: Prof. Raymond Chi-Wing Wong
+
+
 Honors and Awards
 ======
 * Samsung Scholarship, 2021
