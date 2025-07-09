@@ -28,4 +28,4 @@ Community Services
 + As an external reviewer for the following conferences:
   - 2023: BigData
   - 2024: KDD
-  - 2025: WWW
+  - 2025: WWW, ICDM
