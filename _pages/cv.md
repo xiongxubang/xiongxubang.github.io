@@ -38,9 +38,11 @@ Honors and Awards
 * The Hong Kong PhD Fellowship Scheme ([HKPFS](https://awards.ugc.edu.hk/awardees/database/award/hong-kong-phd-fellowship-scheme/year/all/university/all?q=xubang%20xiong#slide5)), 2023
 
 
-Teaching Assistant Experience
+Publications
 ======
-* COMP1942: Exploring and Visualizing Data (Spring 2024, Spring 2025)
-* COMP5331: Knowledge Discovery in Databases (Fall 2024, Fall 2025)
-* CSIT5210: Data Mining and Knowledge Discovery (Fall 2024, Fall 2025)
-* MSBD5002: Data Mining and Knowledge Discovery (Spring 2025)
+(* represents corresponding author)
+- **Xubang Xiong**, Raymond Chi-Wing Wong* and Yuanfeng Song*. <br/>
+*Interactive Text-to-Visualization: Refining Visualization Outputs Through Natural Language User Feedback*. <br/>
+In Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM ’25), November 10–14, 2025, Seoul, Republic of Korea. (Acceptance about 443/1,627 = 27%) <br/>
+[[Paper](https://github.com/xiongxubang/Vis-Edit/blob/main/Technical_Report.pdf)]
+[[Relevant Material](https://github.com/xiongxubang/Vis-Edit)]
