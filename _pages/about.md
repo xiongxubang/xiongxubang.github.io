@@ -29,3 +29,10 @@ Community Services
   - 2023: BigData
   - 2024: KDD
   - 2025: WWW, ICDM
+ 
+Teaching Assistant Experience
+======
+* COMP1942: Exploring and Visualizing Data (Spring 2024, Spring 2025)
+* COMP5331: Knowledge Discovery in Databases (Fall 2024, Fall 2025)
+* CSIT5210: Data Mining and Knowledge Discovery (Fall 2024, Fall 2025)
+* MSBD5002: Data Mining and Knowledge Discovery (Spring 2025)
