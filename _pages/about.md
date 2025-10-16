@@ -10,7 +10,7 @@ redirect_from:
 About Me
 ======
 
-I am a Ph.D. student in [the Department of CSE](https://cse.hkust.edu.hk/) (Computer Science & Engineering) at [HKUST](https://hkust.edu.hk/), supervised by [Prof. Raymond Chi-Wing Wong](https://home.cse.ust.hk/~raywong/). Before Joining HKUST, I obtained my Bachelor’s degree of Engineering from [SCUT](https://www.scut.edu.cn/new/) (South China University of Technology) in 2023.
+I am a Ph.D. candidate in [the Department of CSE](https://cse.hkust.edu.hk/) (Computer Science & Engineering) at [HKUST](https://hkust.edu.hk/), supervised by [Prof. Raymond Chi-Wing Wong](https://home.cse.ust.hk/~raywong/). Before Joining HKUST, I obtained my Bachelor’s degree of Engineering from [SCUT](https://www.scut.edu.cn/new/) (South China University of Technology) in 2023.
 
 Research Interests
 ======
