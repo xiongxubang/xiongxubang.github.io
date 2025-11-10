@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xubang XIONG (熊栩浜)"
 title_separator          : "-"
 name                     : &name "Xubang XIONG"
-description              : &description "Ph.D. student @ HKUST"
+description              : &description "Ph.D. candidate @ HKUST"
 url                      : https://xiongxubang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiongxubang.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Xubang XIONG"
-  avatar           : "profile.png"
-  bio              : "Ph.D. student @ HKUST."
+  avatar           : "xxb.jpg"
+  bio              : "Ph.D. candidate @ HKUST."
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
