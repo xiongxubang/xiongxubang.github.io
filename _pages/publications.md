@@ -16,6 +16,11 @@ In Proceedings of the 34th ACM International Conference on Information and Knowl
 [[Paper](https://dl.acm.org/doi/10.1145/3746252.3761375)]
 [[Relevant Material](https://github.com/xiongxubang/Vis-Edit)]
 
+- **Xubang Xiong**, Raymond Chi-Wing Wong\* and Yuanfeng Song\*. <br/>
+*Monte Carlo Tree Search with Reasoning Path Refinement for Small Language Models in Conversational Text-to-NoSQL*. <br/>
+arXiv preprint, under review. <br/>
+[[Paper](https://arxiv.org/abs/2602.12574)]
+
 <!--
 
 {% include base_path %}
