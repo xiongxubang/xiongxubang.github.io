@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, 2019-2023
+* B.E. in Computer Science, 2019-2023
   * South China University of Technology
   * Major GPA: 3.97/4.0 (Ranking: 1/176)
 
