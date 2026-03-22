@@ -29,6 +29,7 @@ Community Services
   - 2023: BigData
   - 2024: KDD
   - 2025: WWW, ICDM
+  - 2026: KDD, MDM
  
 Teaching Assistant Experience
 ======
