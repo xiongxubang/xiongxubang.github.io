@@ -36,5 +36,6 @@ Honors and Awards
 ======
 * Samsung Scholarship, 2021
 * The Hong Kong PhD Fellowship Scheme ([HKPFS](https://awards.ugc.edu.hk/awardees/database/award/hong-kong-phd-fellowship-scheme/year/all/university/all?q=xubang%20xiong#slide5)), 2023
+* HKUST RedBird Academic Excellence Award, 2026
 
 
